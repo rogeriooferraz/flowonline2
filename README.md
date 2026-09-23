@@ -1,3 +1,23 @@
+> **About this fork**
+>
+> This repository is a fork of [PiBOH/flowonline2](https://github.com/PiBOH/flowonline2).
+>
+> It is maintained to preserve upstream compatibility while enabling the minimal
+> application changes required for an installable PWA-style desktop experience,
+> with Linux as a primary target.
+>
+> Project-specific planning, validation, deployment, packaging, and
+> infrastructure are intentionally maintained outside this source repository to
+> keep the fork as close to upstream as practical.
+>
+> Changes made here should remain as close as practical to upstream so the fork
+> stays easy to synchronize, review, rebase, and contribute back.
+>
+>> **The original upstream README is preserved below.**
+
+---
+
+<!-- Keep the original upstream README unchanged below this line. -->
 # Flowonline2
 
 <p align="center">
